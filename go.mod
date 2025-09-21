@@ -1,3 +1,3 @@
-module my-first-go-module
+module greet
 
 go 1.24

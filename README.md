@@ -1,1 +1,1 @@
-# `My first Go module`
+# `My first Go module: Greet 👋`
