@@ -14,7 +14,7 @@ This is my first Go package.
 
 ## `Installation`
 ```bash
-go get github.com/PatricioPoncini/greet@v0.0.4
+go get github.com/PatricioPoncini/greet@v0.0.5
 ```
 
 ## `Usage`
